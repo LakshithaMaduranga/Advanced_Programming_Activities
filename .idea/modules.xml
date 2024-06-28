@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Activity01/Activity01.iml" filepath="$PROJECT_DIR$/Activity01/Activity01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity02/Activity02.iml" filepath="$PROJECT_DIR$/Activity02/Activity02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity01/AdvancedProgrammingActivities.iml" filepath="$PROJECT_DIR$/Activity01/AdvancedProgrammingActivities.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdvancedprogrammingActivitys.iml" filepath="$PROJECT_DIR$/AdvancedprogrammingActivitys.iml" />
     </modules>
   </component>
